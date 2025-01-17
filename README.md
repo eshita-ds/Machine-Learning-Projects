@@ -2,15 +2,12 @@
 
 Welcome to my **Machine Learning Projects** repository! Here, I’ve gathered a collection of projects that bring machine learning to life, tackling real-world problems across different domains. Each project is designed to stand on its own, offering a deep dive into a unique dataset or challenge.
 
----
-
 ## 📑 Table of Contents  
 - [Overview](#overview)  
 - [Projects](#projects)  
 - [Assignments](#assignments)
 - [Getting Started](#getting-started)
 
----
 ## 🔍 Overview
 
 This repository serves as the main hub for various machine learning projects and assignments I’ve worked on. Each project showcases different aspects of machine learning, such as data preprocessing, feature engineering, model training, evaluation, and deployment.
@@ -21,7 +18,6 @@ Explore diverse ML algorithms and techniques.
 Apply machine learning to solve real-world problems.
 Share knowledge and resources with the ML community.
 
----
 ## 🏗️ Projects
 Here are the projects included in this repository:
 
@@ -29,7 +25,6 @@ Here are the projects included in this repository:
 
 2.  [**IoT Network Anomaly Detection**](https://github.com/eshita1991/Machine-Learning-Projects/tree/main/IoT-Devices-Network-Anomaly-Detection): 
 
----
 ## 🔩 Assignments
 
 1. [**Assignment-1**](https://github.com/eshita1991/Machine-Learning-Projects/blob/main/Assignments/Gupta_HW_1.ipynb):  Utilised data exploration tools to explain `housing.csv` dataset, visualized data for extracting insights into relationships between variables like median income and house value, and highlighted key patterns and trends in the housing data, such as geographical distributions and income-based housing value trends.
@@ -42,7 +37,6 @@ Here are the projects included in this repository:
 
 5. [**Assignment-5**](https://github.com/eshita1991/Machine-Learning-Projects/blob/main/Assignments/Gupta_HW5_Ques6.ipynb): Implemented the Ordinary Least Squares (OLS) method to solve a simple linear regression problem. Ordinary Least Squares (OLS) method, which is a fundamental technique for estimating the coefficients of a linear regression model. The notebook uses the `student_scores.csv` dataset, which contains data on hours studied and corresponding scores achieved by students. This implementation highlights OLS's utility in modeling linear relationships and provides insights into how study hours influence student scores
 
----
 ## 🚀 Getting Started
 
 Each project and assignment is located in its own repository. To explore a project:
@@ -50,4 +44,3 @@ Each project and assignment is located in its own repository. To explore a proje
 - Click the **Project/Assignments** link in the **Projects/Assignmemts** section above.<br>
 - Follow the installation and usage instructions in the project's README file.
 
----
