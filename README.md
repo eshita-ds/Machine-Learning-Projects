@@ -21,9 +21,11 @@ Share knowledge and resources with the ML community.
 ## 🏗️ Projects
 Here are the projects included in this repository:
 
-1. [**Amazon Review Helpfulness**](https://github.com/eshita1991/Machine-Learning-Projects/tree/main/Amazon-Review-Helpfulness-using-TFIDF) : 
+1. [**AI Insights Enhancing Amazon Review Helpfulness and Smarter Choices**](https://github.com/eshita1991/Machine-Learning-Projects/tree/main/Amazon-Review-Helpfulness-using-TFIDF): Online reviews play a huge role in shaping customer decisions, especially on platforms like Amazon. This project takes a step further by analyzing and predicting the helpfulness of reviews while categorizing them by product type. Using techniques like TF-IDF, Lemmatization, and Stopword Removal, we process raw review text to uncover valuable insights. With machine learning models like Logistic Regression, Random Forest, SVM, and XGBoost, we achieved an impressive 93.75% accuracy in predicting helpfulness in the Cellphones category.
+   
+	The goal is simple yet impactful: help customers make smarter purchasing decisions and enable sellers to optimize their product listings using key 		insights. By enhancing review quality and relevance, we aim to create a more meaningful and informed shopping experience for everyone involved.
 
-2.  [**IoT Network Anomaly Detection**](https://github.com/eshita1991/Machine-Learning-Projects/tree/main/IoT-Devices-Network-Anomaly-Detection): 
+2.  [**IoT Network Anomaly Detection with Machine Learning**](https://github.com/eshita1991/Machine-Learning-Projects/tree/main/IoT-Devices-Network-Anomaly-Detection): In today's world, where smart devices and IoT technologies are everywhere, keeping IoT networks secure is more important than ever. This project focuses on using machine learning to detect and classify unusual behaviors in IoT networks that could pose security risks. By analyzing data from the IoT Network Intrusion Dataset-Hk Security, we apply models like Logistic Regression, Random Forest, Support Vector Machines, and XGBoost to identify anomalies in network traffic. The goal is to provide a robust, real-time solution to protect IoT networks, mitigate risks, and ensure reliable operations through real-time anomaly detection.
 
 ## 🔩 Assignments
 
