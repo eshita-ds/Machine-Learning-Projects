@@ -1,1 +1,1 @@
-# House Prices Preduction with Regression Models and Evaluation
+# House Prices Prediction with Regression Models and Evaluation
