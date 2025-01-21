@@ -1,4 +1,6 @@
 # Harnessing Helpfulness: Amazon Product Reviews to Elevate Marketplace Experience
+<p align=center><img src="https://github.com/user-attachments/assets/09c7613b-01ed-4825-ac39-ad01fc3e65c5"> </img></p>
+
 
 # Overview of Project
 
