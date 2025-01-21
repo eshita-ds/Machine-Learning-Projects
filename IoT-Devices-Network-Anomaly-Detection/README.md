@@ -23,6 +23,28 @@ for real-time anomaly detection. We aim to demonstrate the
 effectiveness of these models in improving IoT network security,
 thereby mitigating risks and enhancing operational reliability
 
+## Introduction
+
+The Internet of Things (IoT) connects devices through sensors, software, and the internet, enabling real-time data exchange across industries. However, as the number of connected devices grows, IoT systems face significant security vulnerabilities. Traditional security methods, designed for static networks, struggle to address the dynamic and resource-limited nature of IoT environments, increasing the risk of sophisticated cyber-attacks.
+
+Machine learning (ML) offers a transformative solution for enhancing IoT security by detecting anomalies in real time. ML algorithms can identify unusual patterns, preventing breaches before they cause harm. Predictive models, powered by ML, anticipate future attack vectors, improving proactive security measures. Despite the challenges of resource-constrained IoT devices, research is focused on lightweight ML models that are computationally efficient and tailored for edge computing environments, processing data locally to reduce latency and improve security responsiveness.
+
+## Methodology
+
+The proposed model classifies IoT network traffic as either normal or malicious using a dataset split into 70% training, 15% validation, and 15% testing. Machine learning algorithms like Logistic Regression, Naive Bayes, Decision Trees, Random Forest, Multi-Layer Perceptron, Support Vector Machines, and XGBoost are employed to address the high-dimensional and complex nature of IoT data.
+
+The IoT Environment Dataset, stored in PCAP files, provides detailed network traffic data for analysis. Models are optimized during training and validation phases, with configurations adjusted as needed to improve performance. Final evaluation metrics, including accuracy, precision, recall, and F1-score, identify the most effective model for deployment.
+
+Successful models are integrated into IoT infrastructures using multi-core CPU systems for real-time processing. The proposed solution is scalable, efficient, and adaptive, enabling high accuracy in threat detection while accommodating diverse IoT environments and resource constraints.
+
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/50168474-80d2-4228-b13e-8f4029b2d628" />
+
+## Dataset
+
+The IoT Environment Dataset, accessible via iot-environment-dataset, contains detailed network traffic data captured from diverse IoT setups. The raw PCAP files include attributes like source/destination IPs, packet lengths, protocol types, timestamps, and payload data. For machine learning purposes, these files are **converted to CSV format using the CIC FlowMeter tool, aligning the data with IEC 60870-5-104 protocols.**
+
+The dataset includes **over 82 feature columns,** with a critical subset selected to optimize modeling and computational efficiency. **The target variable, defined as Normal or Anomaly**, is converted into binary format for classification. Each instance is meticulously labeled with attack categories and subcategories, providing a robust foundation for IoT security analysis.
+
 ### Original Raw Dataset Link
 https://ocslab.hksecurity.net/Datasets/iot-environment-dataset
 
